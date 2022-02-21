@@ -1,4 +1,4 @@
-## WebGL website using Three.js and React
+## WebGL website using Three.js & React
 
 Website hosted on 👉 [Netlify](https://pedantic-pasteur-1cb410.netlify.app) 👈
 
